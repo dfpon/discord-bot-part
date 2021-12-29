@@ -33,10 +33,10 @@ async def create_panel(ctx):
 
 @button.click
 async def create_inquiry(ctx):
-    return
+    #ここ
 
 @button.click
 async def create_buy(ctx):
-    return
+    #ここ
 
 cl.run(token)
